@@ -8,6 +8,8 @@
   * [React Web](React/react-web.md)
   * [React Native](React/react-native.md)
   * [Redux](React/redux.md)
+* [TypeScript](Typescript/typescript-main.md)
+* [Python](Python/python-main.md)
 
 ## Interview
 
