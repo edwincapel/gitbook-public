@@ -11,6 +11,13 @@
 * [TypeScript](Typescript/typescript-main.md)
 * [Python](Python/python-main.md)
 
+## Projects
+
+* [Nextagram - React Web App](Projects/nextagram-web.md)
+* [Next Chat - React Web App](Projects/nextchat-web.md)
+* [Next Chat - React Native App](Projects/nextchat-native.md)
+* [Nextagram - Flask Web App](Projects/nextagram-flask.md)
+
 ## Interview
 
 * [Prep](Interview/interview-main.md)
