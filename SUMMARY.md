@@ -14,7 +14,7 @@
 * [Prep](Interview/interview-main.md)
   * [Algorithms](Interview/algorithms-main.md)
     * [Insertion Sort](Interview/Algorithms/insertion-sort.md)
-* [Experiences](Interview/experiences-main.md)
+* [Interview Experiences](Interview/experiences-main.md)
   * [Money Lion](Interview/Experiences/MoneyLion.md)
   * [Grab](Interview/Experiences/Grab.md)
 
