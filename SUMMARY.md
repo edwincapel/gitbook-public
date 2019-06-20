@@ -13,6 +13,7 @@
 
 ## Projects
 
+* [Top 10 Video Compiler - Python Script](Projects/video-compiler.md)
 * [Nextagram - React Web App](Projects/nextagram-web.md)
 * [Next Chat - React Web App](Projects/nextchat-web.md)
 * [Next Chat - React Native App](Projects/nextchat-native.md)
