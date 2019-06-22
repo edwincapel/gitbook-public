@@ -4,6 +4,8 @@
 
 ### View live demo [here](https://nextagram-react-web.netlify.com/)
 
+### Github repo [here](https://github.com/edwincapel/nextragram-react-web)
+
 ## Goals
 1) Learn Components
 
@@ -23,7 +25,7 @@
 
 #### The documentation for Nextagram API is located [here](https://documenter.getpostman.com/view/2792518/RzZ6HLBy) :
 
-### Github repo [here](https://nextagram-react-web.netlify.com/)
+### Github repo [here](https://github.com/edwincapel/nextragram-react-web)
 
 After you've clone repo
 
