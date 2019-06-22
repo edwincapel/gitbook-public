@@ -6,12 +6,19 @@
 
 ## Goals
 1) Learn Components
+
 2) Learn How to pass props
+
 3) Make async request through axios requests
+
 4) React Routing - Route, Link, withRouter
+
 5) User Authentication through JWT
+
 6) How to use reactstrap
+
 7) Implement Graceful Images
+
 8) Deploying React App
 
 #### The documentation for Nextagram API is located [here](https://documenter.getpostman.com/view/2792518/RzZ6HLBy) :
