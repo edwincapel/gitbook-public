@@ -25,9 +25,9 @@
 
 ### Github repo [here](https://nextagram-react-web.netlify.com/)
 
-### Install npm packages
-
 After you've clone repo
+
+### Install npm packages
 
 ```sh
 yarn install
