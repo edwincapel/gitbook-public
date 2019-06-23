@@ -1,6 +1,6 @@
 # Nextagram React Web
 
-### I teach at Next Academy and this is one of the projects required by the students to build
+I teach at Next Academy and this is one of the projects required by the students to build
 
 ### View live demo [here](https://nextagram-react-web.netlify.com/)
 
