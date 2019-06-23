@@ -42,8 +42,8 @@ yarn start
 ```
 ### App Preview
 
-![alt text](https://i.imgur.com/gSnRy1X.png)
+![Nextagram](https://i.imgur.com/gSnRy1X.png)
 
-![alt text](https://i.imgur.com/MBsCaixr.png)
+![Nextagram](https://i.imgur.com/MBsCaixr.png)
 
-![alt text](https://i.imgur.com/sngLV5i.png)
+![Nextagram](https://i.imgur.com/sngLV5i.png)
