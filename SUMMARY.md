@@ -13,8 +13,9 @@
 
 ## Projects
 
-* [Top 10 Video Compiler - Python Script](Projects/video-compiler.md)
+* [Money Lion - Connected Cells](Projects/connected-cells.md)
 * [Nextagram - React Web App](Projects/nextagram-web.md)
+* [Top 10 Video Compiler - Python Script](Projects/video-compiler.md)
 * [Next Chat - React Web App](Projects/nextchat-web.md)
 * [Next Chat - React Native App](Projects/nextchat-native.md)
 * [Nextagram - Flask Web App](Projects/nextagram-flask.md)
