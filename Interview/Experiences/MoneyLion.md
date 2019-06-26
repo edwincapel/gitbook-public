@@ -2,7 +2,7 @@
 
 A Typescript exercise in search algorithm
 
-This was part of Money Lion Interview process: A technical take home assignment
+This was part of the Money Lion Interview process: A technical take home assignment
 
 ### View live demo [here](https://edwincapel.github.io/connected-cells/)
 
