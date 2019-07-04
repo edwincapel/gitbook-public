@@ -18,6 +18,10 @@ Cons:
 
 2) Code Complexity ( A lot of boilerplate code lol )
 
+Ways to make redux less painful:
+
+- Use Duck Redux pattern/convention
+
 Good Reads:
 
 [Redux - Code Cartoons](https://code-cartoons.com/a-cartoon-intro-to-redux-3afb775501a6)
