@@ -1,10 +1,8 @@
 # Redux
 
-A pattern that was inspired by Flux.
+## A pattern that was inspired by Flux
 
-```html
-    Redux is a predictable state container for JavaScript applications. It helps you write applications that behave consistently, run in different environments (client, server, and native), and are easy to test.
-```
+Redux is a predictable state container for JavaScript applications. It helps you write applications that behave consistently, run in different environments (client, server, and native), and are easy to test.
 
 Pros:
 
